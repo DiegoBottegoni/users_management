@@ -45,7 +45,7 @@ Aunque ya ofrece funcionalidades básicas, todavía hay un amplio margen para me
 5. Iniciar el servidor:
 
    ```bash
-   git clone https://github.com/tu_usuario/users_management.git
+   npm run dev
    
 ## Endpoints
 
